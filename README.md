@@ -1,25 +1,26 @@
 # ApexThink
 
-ApexThink 是一款 Windows 本機序列統計分析工具，以繁體中文為預設介面，並提供簡體中文、English、日本語切換。所有資料僅保存於本機，不上傳至任何雲端。
+ApexThink is a local, offline sequence statistics and analysis tool for Windows. It ships with four interface languages — Traditional Chinese (default), Simplified Chinese, English, and Japanese. All data stays on your machine and is never uploaded.
 
-## 特色
-- 四語介面：繁體中文（預設）、簡體中文、English、日本語
-- 序列記錄檢視、統計圖表與資料分佈視覺化
-- 操作日誌與記錄表格，支援匯出
-- 護眼深色主題
-- 本機資料自動保存，重新啟動自動讀取
-- 無需聯網，隱私留在本機
+## Features
+- Four interface languages: Traditional Chinese (default), Simplified Chinese, English, Japanese
+- Sequence records, statistics charts, and data distribution visualization
+- Operation log and record table with export
+- Eye-care dark theme
+- Local data saved automatically and restored on restart
+- Works offline; privacy stays on-device
 
-## 下載
-請至 [Releases](https://github.com/aimengdas/apexthink/releases) 取得最新安裝包，下載最新版本的安裝程式後直接安裝。
+## Download
+Go to the [Releases](https://github.com/aimengdas/apexthink/releases) page, download the latest installer, and run it to install.
 
-## 系統需求
-- Windows 10 / 11（64 位元）
-- 約 80 MB 可用磁碟空間
+## Requirements
+- Windows 10 / 11 (64-bit)
+- About 80 MB free disk space
 
-## 使用說明
-- 執行安裝程式，依畫面提示完成安裝（一般使用者權限即可）
-- 首次啟動後依介面操作，資料自動保存於本機
+## Usage
+- Run the installer and follow the on-screen steps (standard user rights are enough)
+- On first launch the interface uses the language you picked during installation; you can switch language inside the app later
+- Data is saved locally automatically
 
-## 免責聲明
-本專案僅供個人學習與資料分析用途，使用風險由使用者自行承擔。請遵守當地相關法律法規，作者不對任何直接或間接損失負責。
+## Disclaimer
+This project is provided for personal learning and data-analysis use only. Use at your own risk. Comply with all applicable local laws and regulations. The author is not liable for any direct or indirect damages.
